@@ -4,8 +4,8 @@ title: KİSP-Lab Araştırma Asistanı Rehberi
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "http://kisplab.github.io/rehber"
-baseurl: "rehber"
+url: "http://kisplab.github.io"
+baseurl: ""
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
